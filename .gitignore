@@ -7,3 +7,6 @@ packages
 *.results.xml
 _build
 _nupkg
+/.vs/config
+/Backup
+/UpgradeLog.htm
